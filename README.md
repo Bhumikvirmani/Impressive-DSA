@@ -16,4 +16,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2048-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
