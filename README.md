@@ -8,6 +8,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0001-two-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0152-maximum-product-subarray) |
 | [2048-build-array-from-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2048-build-array-from-permutation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Hash Table
@@ -61,4 +62,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
