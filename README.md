@@ -7,6 +7,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
 | [2048-build-array-from-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2048-build-array-from-permutation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Hash Table
@@ -52,4 +53,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
