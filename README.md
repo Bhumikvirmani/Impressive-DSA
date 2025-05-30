@@ -8,10 +8,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0001-two-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0001-two-sum) |
 | [2048-build-array-from-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2048-build-array-from-permutation) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0001-two-sum) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -40,10 +42,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Data Stream
 |  |
 | ------- |
