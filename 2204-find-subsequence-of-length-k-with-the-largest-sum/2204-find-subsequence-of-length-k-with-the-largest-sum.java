@@ -1,21 +1,20 @@
 class Solution {
     public int[] maxSubsequence(int[] nums, int k) {
-//  why we dont use sliding window bc array is a subsequence not contiguous subarray
-// so we use sorting to sort the whole array descendingly and then select the top k element and sort them with there original index
-        int[][] indexNums = new int[nums.length][2];
-        for(int i = 0; i < nums.length; i++){
-            // Store value & index
-            indexNums[i] = new int[]{nums[i],i};
+        
+        PriorityQueue<int[]> topMinHeap = new PriorityQueue<>((a,b)-> a[0]-b[0]);
+        
+        // Step 1: Add elements to minHeap while keeping track of indices
+        for(int i= 0; i< nums.length; i++){
+            topMinHeap.offer(new int[]{nums[i],i});
+            if(topMinHeap.size()>k){
+                topMinHeap.poll();// Remove smallest element when size exceeds k
+            }
         }
-        // Sort by value descending
-        Arrays.sort(indexNums,(a,b) -> Integer.compare(b[0],a[0]));
-        // Select top k elements
-        int[][] topk = Arrays.copyOfRange(indexNums,0, k);
-        // Sort by original index
-        Arrays.sort(topk, (a,b)-> Integer.compare(a[1],b[1]));
-
-        // Convert the array into stream and as we need the array into the primitive strean 
-        // and extracting the first integer from every stream and convert to array as ans 
-        return Arrays.stream(topk).mapToInt(a -> a[0]).toArray();
+        // Step 2: Extract top k elements
+        List<int[]> topk = new ArrayList<>(topMinHeap);
+        // Step 3: Sort extracted elements by their original index
+        topk.sort(Comparator.comparingInt(a->a[1])); 
+        // Step 4: Convert the result to an integer array
+        return topk.stream().mapToInt(a -> a[0]).toArray();
     }
 }
