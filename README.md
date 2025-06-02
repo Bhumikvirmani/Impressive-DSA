@@ -32,6 +32,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
@@ -42,6 +43,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
