@@ -36,6 +36,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
@@ -48,6 +49,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
 ## Design
@@ -58,6 +60,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
@@ -73,6 +76,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +87,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
