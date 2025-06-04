@@ -38,6 +38,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0141-linked-list-cycle](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
