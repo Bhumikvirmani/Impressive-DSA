@@ -8,6 +8,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0001-two-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0078-subsets) |
@@ -49,6 +50,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0015-3sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0148-sort-list) |
