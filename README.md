@@ -18,6 +18,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0152-maximum-product-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0948-sort-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2048-build-array-from-permutation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -61,6 +62,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0148-sort-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
