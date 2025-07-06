@@ -14,6 +14,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0078-subsets](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0189-rotate-array) |
@@ -94,6 +95,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -125,4 +127,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0948-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
