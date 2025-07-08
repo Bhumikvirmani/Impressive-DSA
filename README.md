@@ -11,6 +11,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0027-remove-element](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -27,6 +28,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -134,4 +136,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
