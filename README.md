@@ -22,6 +22,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0496-next-greater-element-i) |
 | [0948-sort-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0948-sort-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2048-build-array-from-permutation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -32,6 +33,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0073-set-matrix-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0496-next-greater-element-i) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Simulation
 |  |
@@ -152,4 +154,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
