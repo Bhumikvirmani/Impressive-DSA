@@ -10,6 +10,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0015-3sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0078-subsets) |
@@ -79,6 +80,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -124,6 +126,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -173,11 +176,13 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
