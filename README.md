@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0073-set-matrix-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0152-maximum-product-subarray) |
@@ -145,10 +146,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0090-subsets-ii) |
 ## Bucket Sort
 |  |
 | ------- |
