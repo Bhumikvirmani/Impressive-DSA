@@ -26,6 +26,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0455-assign-cookies](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0948-sort-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2048-build-array-from-permutation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -140,6 +141,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Merge Sort
 |  |
 | ------- |
