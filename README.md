@@ -23,6 +23,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0189-rotate-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0496-next-greater-element-i) |
 | [0948-sort-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0948-sort-an-array) |
@@ -92,6 +93,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0234-palindrome-linked-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -104,6 +106,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0148-sort-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0948-sort-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
@@ -168,6 +171,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
