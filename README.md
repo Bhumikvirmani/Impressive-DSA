@@ -100,6 +100,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
@@ -188,6 +189,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -199,4 +201,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0151-reverse-words-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
