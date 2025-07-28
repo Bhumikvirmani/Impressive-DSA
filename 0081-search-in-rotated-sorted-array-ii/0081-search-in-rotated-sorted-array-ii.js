@@ -17,6 +17,7 @@ var search = function(nums, target) {
             low++;
             high--;
         }
+        
         // Left half is sorted
         else if(nums[low] <= nums[mid]) {
             if(nums[low] <= target && target < nums[mid]) {
