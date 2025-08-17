@@ -13,17 +13,16 @@
 var maxPathSum = function(root) {
     let maxi = -Infinity;
     function height(node){
-        if(node == null)return 0;
+        if(node == null) return 0;
         // Recursively get left and right max path sums
-        let lh = Math.max(0, height(node.left));  // Ignore negative paths
-        let rh = Math.max(0, height(node.right)); // Ignore negative paths
+        let lh = Math.max(0,height(node.left));
+        let rh = Math.max(0,height(node.right));
 
         // Update global maximum if current path is better
         maxi = Math.max(maxi, lh + rh + node.val);
-
+        
         // Return max path sum including current node and one subtree
-        return node.val + Math.max(lh, rh);
-
+        return (node.val + Math.max(lh, rh)); 
     }
     height(root);
     return maxi;
