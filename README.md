@@ -41,6 +41,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0142-linked-list-cycle-ii](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0496-next-greater-element-i) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Simulation
 |  |
@@ -114,6 +115,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0295-find-median-from-data-stream](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -231,6 +233,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +245,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -254,10 +258,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhumikvirmani/Impressive-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
